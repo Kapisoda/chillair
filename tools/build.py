@@ -24,9 +24,9 @@ FIRMA = {
     "mb": "05987423",
     "direktor": "Zdravko Kušurin",
     "godina": 2024,
-    "telefon_prikaz": "+385 XX XXX XXXX",   # TODO: upišite broj telefona
-    "telefon_link": "+385000000000",        # TODO: isti broj bez razmaka
-    "email": "info@chillair.hr",            # TODO: potvrdite e-mail adresu
+    "telefon_prikaz": "+385 91 328 7215",
+    "telefon_link": "+385913287215",
+    "email": "zdravko@chillair.hr",
     "domena": "https://chillair.hr",        # TODO: potvrdite domenu
     "karta": "https://www.google.com/maps/search/?api=1&query=Ulica+Bernarda+Vukasa+37+Zagreb",
 }

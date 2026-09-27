@@ -12,8 +12,8 @@ python3 tools/build.py
 Skripta ponovno generira sve `.html` datoteke, `sitemap.xml` i `robots.txt`.
 
 ### Za popuniti prije objave
-- broj telefona (`telefon_prikaz`, `telefon_link`)
-- e-mail adresa (`email`)
+
+
 - domena (`domena`) i poštanski broj (`grad`)
 
 ## Objava na GitHub Pages
